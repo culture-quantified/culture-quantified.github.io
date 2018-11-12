@@ -1,16 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+title:          Culture Quantified
+description:    "A look at the algorithms that surround and define modern American culture."
+url:            "https://culture-quantified.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Sumeet Bansal
+  url:          https://sumeet-bansal.github.io
+  email:        s3bansal@ucsd.edu
 
 # Build settings
 markdown:       kramdown
